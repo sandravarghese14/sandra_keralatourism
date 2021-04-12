@@ -1,0 +1,44 @@
+*{ 
+    color: #fff;
+    padding: 0px;
+    margin: 0px;
+    font-family: poppins,fantasy;
+}
+body{
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    
+}
+.form-container{
+    border: 0px solid #fff;
+    padding: 50px 60px;
+    margin-top: 18vh;
+    -webkit-box-shadow: -1px 4px 26px 11px rgba(0,0,0,.75);
+    -moz-box-shadow: -1px 4px 26px 11px rgba(0,0,0,.75);
+    box-shadow: -1px 4px 26px 11px rgba(0,0,0,.75);
+}
+.last h6{
+    font-weight: bold;
+    color: #fff;
+}
+.last a{
+    font-weight: bold;
+    color:  #63a0d4;
+}
+.h1{
+    text-align: center;
+    
+}
+.container{
+    height: 25px;
+}
+.hme{
+    
+    font-size: 20px;
+    color: #fff;
+    font-family: poppins,fantasy;
+    cursor: pointer;
+    font-weight: bold;
+    padding: 50px;
+}
